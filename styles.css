@@ -13,6 +13,9 @@
 .show-sidebar {
     transform: translate(0);
 }
+.links{
+    list-style-type: none;
+}
 
 @media screen and (min-width: 676px) {
     .sidebar {
